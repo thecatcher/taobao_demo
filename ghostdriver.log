@@ -1,0 +1,157 @@
+[INFO  - 2020-02-13T13:02:45.184Z] GhostDriver - Main - running on port 7710
+[INFO  - 2020-02-13T13:02:48.506Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-02-13T13:02:48.507Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.customHeaders:  - {}
+[INFO  - 2020-02-13T13:02:48.511Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-02-13T13:02:48.511Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2272bb00-4e61-11ea-a1ce-cddd1eb0263f
+[ERROR - 2020-02-13T13:02:49.268Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - msg: SyntaxError: Unexpected token ','
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:02:49.268Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - stack:
+  insertBefore (https://www.taobao.com/:5)
+  u (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  p (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  i (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:02:53.172Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - msg: SyntaxError: Unexpected token ','
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:02:53.172Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - stack:
+  insertBefore (https://www.taobao.com/:5)
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.9/index-min.js,secdev/sufei_data/3.3.5/index.js:6)
+  u (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  v (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  before (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  load (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  o (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  a (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  e (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:02:58.790Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - msg: SyntaxError: Unexpected token ','
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:02:58.790Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - stack:
+  insertBefore (https://www.taobao.com/markets/search/search-suggest-history-iframe:5)
+  u (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  v (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  before (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  load (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  o (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  a (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  e (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:03:03.846Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - msg: SyntaxError: Unexpected token ','
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:03:03.846Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - stack:
+  insertBefore (https://www.taobao.com/:5)
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.9/index-min.js,secdev/sufei_data/3.3.5/index.js:6)
+  u (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  v (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  before (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  load (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  o (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  a (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  e (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:03:06.492Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - msg: SyntaxError: Unexpected token ','
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:03:06.492Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - stack:
+  insertBefore (https://www.taobao.com/:5)
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.9/index-min.js,secdev/sufei_data/3.3.5/index.js:6)
+  u (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  v (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  before (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  load (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  o (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  a (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  e (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:03:10.612Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - msg: SyntaxError: Unexpected token ','
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:03:10.612Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - stack:
+  insertBefore (https://www.taobao.com/markets/search/search-suggest-history-iframe:5)
+  u (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  v (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  before (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  load (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  o (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  a (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  e (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:03:17.050Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - msg: SyntaxError: Unexpected token ','
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:03:17.050Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - stack:
+  insertBefore (https://www.taobao.com/:5)
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.9/index-min.js,secdev/sufei_data/3.3.5/index.js:6)
+  u (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  v (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  before (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  load (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  o (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  a (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  e (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:03:17.279Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - msg: SyntaxError: Unexpected token ','
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:03:17.279Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - stack:
+  insertBefore (https://www.taobao.com/:5)
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.9/index-min.js,secdev/sufei_data/3.3.5/index.js:6)
+  u (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  v (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  before (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  load (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  o (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  a (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  e (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:03:20.318Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - msg: SyntaxError: Unexpected token ','
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-13T13:03:20.318Z] Session [2272bb00-4e61-11ea-a1ce-cddd1eb0263f] - page.onError - stack:
+  insertBefore (https://www.taobao.com/markets/search/search-suggest-history-iframe:5)
+  u (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  v (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  before (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  load (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  o (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  (anonymous function) (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  a (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+  e (https://g.alicdn.com/alilog/mlog/aplus_v2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
